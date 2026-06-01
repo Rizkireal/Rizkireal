@@ -1,5 +1,5 @@
 <div align="center">
-  ![GIF](./Image/giphy.gif)
+  <img src="https://raw.githubusercontent.com/Rizkireal/Image/main/giphy.gif" width="250">
 </div>
 
 # Hi, I'm Rizqi Ridwani 👋
