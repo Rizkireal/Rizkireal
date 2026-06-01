@@ -1,5 +1,5 @@
 <div align="center">
-<img src="Image/giphy.gif" width="250">
+  ![Nama Gambar]Image/giphy.gif
 </div>
 
 # Hi, I'm Rizqi Ridwani 👋
